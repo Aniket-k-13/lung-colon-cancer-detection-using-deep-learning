@@ -70,7 +70,7 @@ This dataset can be downloaded from the link below:
 
 https://academictorrents.com/details/7a638ed187a6180fd6e464b3666a6ea0499af4af
 
-If you find this dataset useful and wish to cite it, you can use:
+[BY]
 
 Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and Colon Cancer Histopathological Image Dataset (LC25000). arXiv:1912.12142v1 [eess.IV], 2019
 
