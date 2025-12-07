@@ -293,9 +293,4 @@ It serves as a strong foundation for building **future diagnostic platforms**.
 
 ---
 
-📌 Architecture Diagram
-📌 API Documentation Section
-📌 Video Demo Section
-📌 PDF Version
 
-Just tell me!
