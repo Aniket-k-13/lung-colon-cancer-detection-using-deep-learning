@@ -76,6 +76,8 @@ Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. Lung and C
 
 https://arxiv.org/abs/1912.12142v1
 
+<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/e99fe7d7-f689-49a6-a4ed-270d9d6820c6" />
+
 ---
 
 # 🧪 **Models Tested**
